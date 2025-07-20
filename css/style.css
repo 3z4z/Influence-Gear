@@ -429,6 +429,9 @@ footer ul li a {
     padding: 0;
     grid-template-columns: repeat(2, 1fr);
   }
+  .featured-items {
+    margin-top: 2.5rem;
+  }
   .featured-wrap {
     flex-wrap: wrap;
     gap: 1.5rem;
